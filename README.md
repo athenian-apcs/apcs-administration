@@ -1,4 +1,4 @@
-# Athenian APCS Adminstration
+# Athenian APCS Adminstration Docs
 
-* [Organization of the APCS Github Resources](organization.md)
+* [APCS Github Resources](resources.md)
 * [Actions Outline](actions.md)
