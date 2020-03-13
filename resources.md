@@ -1,4 +1,4 @@
-# Organization of the Athenian APCS Github Resources
+# Athenian APCS Github Resources
 
 ## Website
 * The documents for the [Athenian CS](https://www.athenian-cs.org) website 
