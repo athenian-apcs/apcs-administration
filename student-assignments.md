@@ -1,7 +1,7 @@
 # APCS Student Assignments Organization
 
 * One organization for each semester.
-* Naming should adhere to: APCS-Assigments-semester, e.g., `APCS-Assignments-Fall2020` 
+* Naming should adhere to: apcs-assigments-semester, e.g., `apcs-assignments-fall2020` 
 * This is the organization to which each classroom is linked.
 * Each student assignment repo will be created automatically when the student accepts an invitation.
 * There will be one repo per assignment per student.
