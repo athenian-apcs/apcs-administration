@@ -59,7 +59,7 @@ the [master-apcs-assignment-template](https://github.com/athenian-apcs/master-ap
 #### [Teams](https://github.com/orgs/athenian-apcs/teams) 
 * [All Athenian](https://github.com/orgs/athenian-apcs/teams/all-athenian)
     * [Teachers](https://github.com/orgs/athenian-apcs/teams/teachers)
-    * [TAs](https://github.com/orgs/athenian-apcs/teams/teaching-assistants)
+    * [TAs](https://github.com/orgs/athenian-apcs/teams/teacher-assistants)
     * [All Students](https://github.com/orgs/athenian-apcs/teams/all-students)
     
 * A team will be created for each section at the beginning of the semester. Each section team 
