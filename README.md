@@ -1,4 +1,4 @@
-# Athenian APCS Adminstration Docs
+# Athenian APCS Github Resources
 
 ## Website
 * The documents for the [Athenian CS](https://www.athenian-cs.org) website 
@@ -32,6 +32,48 @@ and click on [Use this template](https://github.com/athenian-apcs/master-apcs-as
 11) Copy the new assignment invitation URL and add it to the 
 [assignment page](https://github.com/athenian-apcs/apcs-private-content/blob/master/assignment-invitations.md).
 
+
+## Organizations
+
+### [APCS Organization](https://github.com/athenian-apcs)
+
+* All repos are visible to the teachers and TAs
+* Some repos are visible to students
+* Repo visibility is controlled via [Github Teams](https://github.com/orgs/athenian-apcs/teams)
+ 
+#### Repos
+1) A private [APCS Administration Documents](https://github.com/athenian-apcs/apcs-administration) repo. 
+Visible to Teachers and TAs.
+2) A private [APCS Content](https://github.com/athenian-apcs/apcs-private-content) repo. Visible to 
+All Students, Teachers and TAs.
+3) A private [master-apcs-assignment-template](https://github.com/athenian-apcs/master-apcs-assignment-template) repo
+used to create assignment templates. Visible to Teachers and TAs.
+4) A private template repo for each assignment. Visible to Teachers and TAs.
+
+#### Assignment Template Repos
+* Each student assignment in a classroom is automatically created using an assignment template repo.
+* Assignment template repos are created using 
+the [master-apcs-assignment-template](https://github.com/athenian-apcs/master-apcs-assignment-template).
+* Assignment template are marked as a template in the settings and each should have a ```-template``` suffix. 
+
+#### [Teams](https://github.com/orgs/athenian-apcs/teams) 
+* [All Athenian](https://github.com/orgs/athenian-apcs/teams/all-athenian)
+    * [Teachers](https://github.com/orgs/athenian-apcs/teams/teachers)
+    * [TAs](https://github.com/orgs/athenian-apcs/teams/teaching-assistants)
+    * [All Students](https://github.com/orgs/athenian-apcs/teams/all-students)
+    
+* A team will be created for each section at the beginning of the semester. Each section team 
+will have [All Students](https://github.com/orgs/athenian-apcs/teams/all-students) as a parent.
+
+### APCS Student Assignments Organization
+
+* One organization for each semester.
+* Naming should adhere to: apcs-assigments-semester, e.g., `apcs-assignments-fall2020` 
+* This is the organization to which each classroom is linked.
+* Each student assignment repo will be created automatically when the student accepts an invitation.
+* There will be one repo per assignment per student.
+* Each repo will be private and visible to the student, teachers and TAs.
+
 ## Actions
 
 ### Actions to take at the beginning of each semester
@@ -44,15 +86,8 @@ and click on [Use this template](https://github.com/athenian-apcs/master-apcs-as
 that summarizes all assignment invitations. This document will be updated as the assignment list changes.
 7) Create a team for each section under [All Students](https://github.com/orgs/athenian-appcs/teams/all-students).
 
-### First day of class actions 
+### Actions to take on the first day of class  
 1) Create github account for every student.  
 2) Give every student an assignment invitation URL.
 3) When they respond to the assingment invitation, they will be asked to link their github ID with 
 their class roster name.
-
-## Github APCS Organizations
-
-* [APCS Organization](apcs.md)
-* [APCS Student Assignment Organization](student-assignments.md)
-
-
