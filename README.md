@@ -84,7 +84,7 @@ will have [All Students](https://github.com/orgs/athenian-apcs/teams/all-student
 5) Add assignments to each classroom using the assignment templates in the [APCS Organization](https://github.com/athenian-apcs).
 6) Create a document in the [class assignment repo](https://github.com/athenian-apcs/apcs-private-content) 
 that summarizes all assignment invitations. This document will be updated as the assignment list changes.
-7) Create a team for each section under [All Students](https://github.com/orgs/athenian-appcs/teams/all-students).
+7) Create a team for each section under [All Students](https://github.com/orgs/athenian-apcs/teams/all-students).
 
 ### Actions to take on the first day of class  
 1) Create github account for every student.  
