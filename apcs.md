@@ -18,9 +18,6 @@ used to create assignment templates. Visible to Teachers and TAs.
 * Assignment template repos are created using 
 the [master-assignment-template](https://github.com/athenian-computational-thinking/master-assignment-template).
 * Assignment template are marked as a template in the settings and each should have a ```-template``` suffix. 
-* When creating or updating assignment template notebooks, do not check the box for a Collab badge.
-The Collab badge will create problems for the students when trying to save their version of the file. The students
-can save notebooks to their repos with a badge though.
 
 ## [Teams](https://github.com/orgs/athenian-computational-thinking/teams) 
 * [All Athenian](https://github.com/orgs/athenian-computational-thinking/teams/all-athenian)
